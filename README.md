@@ -1,4 +1,4 @@
-# Demo 
-my first git repository
+Artificial intelligence Lab programs
+python
 <br>
 author: musaddiqua
